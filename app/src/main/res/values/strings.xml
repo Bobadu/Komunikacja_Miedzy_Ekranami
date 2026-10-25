@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zamówienie Pizzy</string>
+    <string name="title_order">Zamówienie pizzy</string>
+    <string name="hint_name">Nazwa klienta</string>
+    <string name="label_size">Rozmiar pizzy</string>
+    <string name="size_small">Mała</string>
+    <string name="size_medium">Średnia</string>
+    <string name="size_large">Duża</string>
+    <string name="extra_cheese">Dodatkowy ser</string>
+    <string name="btn_summary">Przejdź do podsumowania</string>
+    <string name="error_name">Wpisz nazwę klienta</string>
+    <string name="title_summary">Podsumowanie zamówienia</string>
+    <string name="summary_name">Klient: %1$s</string>
+    <string name="summary_size">Rozmiar: %1$s</string>
+    <string name="summary_cheese_yes">Dodatkowy ser: tak</string>
+    <string name="summary_cheese_no">Dodatkowy ser: nie</string>
+    <string name="btn_back">Wróć / Potwierdź</string>
+</resources>
